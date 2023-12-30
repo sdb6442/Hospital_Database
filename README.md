@@ -2,13 +2,13 @@
 
 ## Summary
 A hospital database created with MySQL Workbench showcasing the following entities:
-    - Patient
-    - Physician
-    - Nurse
-    - Medication
-    - Room
-    - Health Record
-    - Instructions
+- Patient
+- Physician
+- Nurse
+- Medication
+- Room
+- Health Record
+- Instructions
 
 The hospital-data.sql and hospital-schema.sql files showcase the data and format of the databas,
 while the hospital-schema.sql showcases a number of queries that can independently be run on the database.
